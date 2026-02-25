@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# Vector database
+my_local_vectordb/
+
+# Uploaded PDFs
+uploaded_pdfs/
+
+# OS files
+.DS_Store
+
+available_pdfs.json/
+test.py/
+vector_data_base's/
+pdf's/
